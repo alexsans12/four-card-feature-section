@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-responsive-3HqxeGa9p)
+- Live Site URL: [Netlify](https://alexsans-four-card-feature.netlify.app/)
 
 ## My process
 
